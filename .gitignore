@@ -1,4 +1,5 @@
-.db
-.log
+*.db
+*.log
 target
-bin[A[D[D[D[A[A*[2~.db[B[D[D[D[D[2~*[2~.log[B[C/[B[D[D[D[D/
+bin
+*.md
